@@ -6,7 +6,7 @@
     <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
-<p align="center">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=arijitmukherjee983&label=Profile%20views&color=0e75b6&style=flat" alt="arijitmukherjee983" />
 </p>
 
@@ -24,8 +24,8 @@
 
 - 📫 How to reach me **arijit.mukherjee.ece26@heritageit.edu.in**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
     <a href="https://linkedin.com/in/arijit-mukherjee-196679271" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arijit-mukherjee-196679271" height="30" width="40" />
     </a>
@@ -34,8 +34,8 @@
     </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
     </a>
@@ -80,14 +80,14 @@
     </a>
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arijitmukherjee983&show_icons=true&locale=en&layout=compact" alt="arijitmukherjee983" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=arijitmukherjee983&show_icons=true&locale=en" alt="arijitmukherjee983" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arijitmukherjee983&" alt="arijitmukherjee983" />
 </p>
